@@ -219,13 +219,13 @@ Input:
 Expected output:
 
 ```text
-35 14
+35 21
 ```
 
 Actual output:
 
 ```text
-35 14
+35 21
 ```
 
 Result:
